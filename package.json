@@ -7,7 +7,7 @@
     "handlebars": "^4.5.3",
     "mime-db": "^1.43.0",
     "mime-types": "^2.1.26",
-    "minimatch": "^3.0.4",
+    "minimatch": "^3.0.5",
     "path-to-regexp": "^6.1.0",
     "punycode": "^2.1.1",
     "range-parser": "^1.2.1",
